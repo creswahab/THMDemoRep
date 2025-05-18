@@ -13,11 +13,15 @@ public class PeopleProfile {
 
     }
 
+	public String getphoto() {
+		// TODO Auto-generated method stub
+		return photo;
+	}
+
 	public String getStarRating() {
 		// TODO Auto-generated method stub
 		return starRating;
 	}
-
 
 	
 	public String getName() {
